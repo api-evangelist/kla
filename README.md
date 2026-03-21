@@ -1,5 +1,5 @@
-# KLA Corporation (kla)
-KLA Corporation is a Fortune 500 semiconductor equipment company that provides process control and yield management systems for the semiconductor industry. KLA offers advanced data analytics, run-time process control, defect analysis, and patterning simulation software for semiconductor fabrication facilities. KLA does not currently offer a public API developer portal or externally documented REST APIs for third-party developer integration.
+# KLA (kla)
+KLA is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for KLA.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/kla/refs/heads/main/apis.yml)
 
@@ -11,7 +11,7 @@ KLA Corporation is a Fortune 500 semiconductor equipment company that provides p
 
 ## Tags:
 
- - Semiconductor, Process Control, Yield Management, Equipment
+ - Fortune 500
 
 ## Timestamps
 
@@ -20,13 +20,11 @@ KLA Corporation is a Fortune 500 semiconductor equipment company that provides p
 
 ## APIs
 
-No public APIs are currently documented for KLA Corporation.
+No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
 - [Website](https://www.kla.com)
-- [Semiconductor Software](https://www.kla.com/products/software-solutions/semiconductor)
-- [Investor Relations](https://ir.kla.com/)
 
 ## Maintainers
 
